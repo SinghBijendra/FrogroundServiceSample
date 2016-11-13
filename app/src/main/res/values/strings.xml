@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">FrogroundServiceSample</string>
+    <string name="app_name">Audio Service</string>
+    <string name="msg">This code is written for playing audio file using foreground service.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="coded_by">Coded by Bijendra</string>
+    <string name="service_title">Audio Player</string>
+
 </resources>
